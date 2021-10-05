@@ -183,9 +183,20 @@ a {
 }
 
 .portf-title {
-    /*align-self: center;*/
     justify-self: center;
     color: #fff;
+}
+
+.portf-container {
+    width: 90%;
+    height: 100%;
+    margin: 0 5%;
+    padding: 1rem 1.2rem;
+    background-color: yellow;
+}
+
+.gallery-image img {
+    max-width: 300px;
 }
 
 
