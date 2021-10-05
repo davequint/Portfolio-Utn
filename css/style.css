@@ -104,10 +104,6 @@ a {
     padding: 0 1.5rem;
 }
 
-.navbar-container ul li a {
-    /*text-decoration: none;*/
-}
-
 .navbar-container ul li:hover {
     color: #fff;
     background-color: rgb(232, 49, 81);
@@ -130,7 +126,6 @@ a {
     padding: 0 4rem;
     margin: 0 auto;
     height: 60rem;
-    color: rgb()
 }
 
 .wrapper .item1 {
@@ -209,8 +204,6 @@ a {
 .body-section {
     margin-top: 20px;
 }
-
-.item1: {}
 
 
 /*End of Portfolio*/
